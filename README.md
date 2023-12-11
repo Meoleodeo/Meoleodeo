@@ -38,11 +38,18 @@
   <h2>🐍 My Top prj 🐍</h2>
   <br>
 <a href = "https://github.com/Meoleodeo/Blue-Main-Character">
-<img align="center"
+<img align="right"
         src="https://github-readme-stats.vercel.app/api/pin?username=meoleodeo&repo=Blue-Main-Character&show_icons=true&locale=en&layout=compact&theme=radical"
         alt="A game made by Unity engine"    
 /></a>
-  <br/><br/><br/>
+  <br/>
+    <br>
+<a href = "https://github.com/Meoleodeo/SomeGameRemadeByPygame">
+<img align="left"
+        src="https://github-readme-stats.vercel.app/api/pin?username=meoleodeo&repo=SomeGameRemadeByPygame&show_icons=true&locale=en&layout=compact&theme=radical"
+        alt="Some game remade by python"    
+/></a>
+  <br/>
 </div>
 
 
