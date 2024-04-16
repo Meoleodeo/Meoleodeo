@@ -8,7 +8,7 @@
 
 <br/>
 
-- OverView: <p><i class="fa-solid fa-link"></i><strong>Links:</strong> <a href="https://meoleodeo.github.io/Meoleodeo/">here</a></p>
+- OverView: <p><i class="fa-duotone fa-link" style="--fa-primary-color: #be2727; --fa-secondary-color: #d75656;"></i><strong>Links:</strong> <a href="https://meoleodeo.github.io/Meoleodeo/">here</a></p>
 
 <!-- <div align="center">
  
