@@ -4,9 +4,11 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Thiện!;" />
 </h1>
 
-<h3 align="center">A passionate ... developer from VietNam</h3>
+<!-- <h3 align="center">A passionate ... developer from VietNam</h3> -->
 
 <br/>
+
+- OverView: **[here](https://meoleodeo.github.io/Meoleodeo/)**
 
 <!-- <div align="center">
  
@@ -21,7 +23,6 @@
  </div> -->
 
 ## 🌐Socials
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Meo.leo.deo) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/meo.leo.deo) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/meoleodeo) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/channel/UCmmPqymrwJRLnOILNsLdksg) 
 
 # 💻Tech Stack
 
