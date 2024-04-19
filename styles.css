@@ -56,10 +56,10 @@ a {
 }
 
 a:hover {
-    color: #023814;
+    color: #592455;
     border-radius: 20%;
-    background-color: #7e9171;
-    transform: scale(1.05); /* Phóng to khi hover */
+    background-color: #a3c88a;
+    transform: scale(1.25); /* Phóng to khi hover */
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.3); /* Đổ bóng khi hover */
 }
 
