@@ -52,15 +52,15 @@ a {
     display: inline-block;
     margin-right: 10px;
     text-decoration: none;
-    transition: color 0.3s ease, background-color 0.3s ease, transform 0.3s ease; 
+    transition: color 0.3s ease, background-color 0.3s ease, transform 0.3s ease;
 }
 
 a:hover {
     color: #592455;
     border-radius: 20%;
     background-color: #a3c88a;
-    transform: scale(1.25); /* Phóng to khi hover */
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3); /* Đổ bóng khi hover */
+    transform: scale(1.25);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
 }
 
 .overview {
@@ -82,3 +82,8 @@ a:hover {
 .footer p {
     color: #000000;
 }
+
+
+/* .customTooltip * {
+    background-color: #7b9b83;
+} */
