@@ -158,22 +158,37 @@ a:hover {
 .tech-icons {
     display: flex;
     flex-wrap: wrap;
+    gap: 10px;
+    margin-top: 10px;
 }
 
-.tech-icon {
-    margin: 10px;
+.tech-badge {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    background-color: #8DAA91;
+    padding: 6px 14px;
+    border-radius: 20px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.15);
+    transition: transform 0.2s ease, background-color 0.2s ease, box-shadow 0.2s ease;
+    cursor: default;
 }
 
-.tech-icon img {
-    width: 35px;
-    height: 35px;
-    display: block;
-    margin: 0 auto;
+.tech-badge:hover {
+    transform: translateY(-3px) scale(1.03);
+    background-color: #a3c88a;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.25);
 }
 
-.tech-icon p {
-    margin-top: 5px;
-    margin-bottom: 0px;
+.tech-badge img {
+    width: 22px;
+    height: 22px;
+    object-fit: contain;
+}
+
+.tech-badge span {
+    font-size: 13px;
+    font-weight: 600;
     color: #000000;
 }
 
